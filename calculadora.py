@@ -4,5 +4,9 @@ def incremento(x):
     x += 1
     return x
 
-print(incremento(4))
+def decremento(x):
+	
+	x -= 1
+	return x
+	
 
